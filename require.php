@@ -23,6 +23,10 @@
  * SOFTWARE.
  */
 
+/**
+ * @package Azip
+ * @version 1.0
+ */
 class EncryptException extends Exception {}
 class DecryptException extends Exception {}
 
